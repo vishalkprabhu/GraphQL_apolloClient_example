@@ -1,0 +1,10 @@
+{
+  "name": "heloo-world-server",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
